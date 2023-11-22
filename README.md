@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div id="badges" align="center">
-  <a href="[https://www.linkedin.com/in/maxwellfilip-turner/]">
+  <a href="https://www.linkedin.com/in/maxwellfilip-turner/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 

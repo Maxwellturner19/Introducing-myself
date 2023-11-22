@@ -1,7 +1,11 @@
 # Introducing-myself
-Who am I?
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+
+# Hello👋🏻😃!
+
+Hi, I am Maxwell. I am currently in my third-year studying PPE at the LSE.
+
+Here are is my GitHub.
+
+LinkedIn: https://www.linkedin.com/in/maxwellfilip-turner/
+
+</p>
